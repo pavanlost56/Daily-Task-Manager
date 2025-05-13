@@ -16,13 +16,12 @@ A simple Streamlit-based web application to manage daily tasks with start/end ti
 
 ### Installation
 1. Clone the repository:
-   ```bash
+```bash  
 git clone https://github.com/yourusername/daily-task-manager.git
-
+```
+```bash
 cd daily-task-manager 
-
-   ``
-
+```
 
 ### Running the App
 ```bash
